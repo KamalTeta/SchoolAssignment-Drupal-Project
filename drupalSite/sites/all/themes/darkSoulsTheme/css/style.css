@@ -1,0 +1,17 @@
+/**
+ * Styled by Kamal
+ */
+body{background:#424242;color:white;}
+.navbar-default,.well,.region-sidebar-second{border:none;background:black;}
+a,.navbar-default .navbar-nav > li > a{color: white;text-decoration: underline;}
+a:hover,.navbar-default .navbar-nav > li > a:hover{color:#F2911C;}
+.navbar-default .navbar-nav > .active > a{color:#F2911C;background: #424242; }
+.table-striped > tbody > tr:nth-of-type(2n+1){background-color: rgba(0,0,0,.2);}
+.table-striped > tbody > tr:hover{background-color: rgba(0,0,0,.4);}
+.views-row{border-bottom: solid 1px white; margin-bottom: 20px;padding-bottom: 10px;}
+.region-sidebar-second{padding:10px;border-radius: 4px;}
+.navbar-nav{position: absolute;bottom: 0;right: 0;}
+.secondary{top:0;bottom: auto;}
+.webform-client-form{margin-top: 50px;}
+.date-prev,.date-next{color:#424242;}
+.date-prev{float: left;}
